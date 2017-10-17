@@ -1,0 +1,80 @@
+/*jumbotron begin*/
+.jumbotron {
+	 margin-bottom: 0px;
+	 padding-top: 470px;
+    background-image: url(https://www.wearedesignstudio.com/wp-content/uploads/2016/02/Premier_League_Rebrands_DesignStudio_02-1024x576.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+/*navbar begin*/
+
+.navbar {
+	background: transparent;
+	border: 0;
+}
+
+.navbar li {
+	margin-right: -5px;
+	position: center;
+  padding: 0px;
+}
+
+
+/*leftsidebar begins*/
+
+.table-hover tbody tr:hover td {
+    background: #e90052;
+}
+
+
+
+
+
+/*blog begins*/
+
+
+
+/*footer begins*/
+
+.footer {
+	padding: 50px;
+	background-color: #e90052;
+	text-align: center;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 75px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  float: center;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #38003c;
+  color: white;
+}
+
+.fa-twitter {
+  background: #38003c;
+  color: white;
+}
+
+.fa-instagram {
+  background: #38003c;
+  color: white;
+}
+
+
+
+
