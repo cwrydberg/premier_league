@@ -30,13 +30,25 @@
     background: #e90052;
 }
 
+a {
+  color: black;
+}
+
 
 
 
 
 /*blog begins*/
+h1 {
+  text-align: center;
+  color: #e90052;
+}
 
-
+.blog-footer {
+  padding: 20px;
+  background-color: #e90052;
+  text-align: center;
+}
 
 /*footer begins*/
 
